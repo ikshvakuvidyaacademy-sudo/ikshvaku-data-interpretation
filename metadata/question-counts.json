@@ -1,194 +1,211 @@
 {
   "repository": "ikshvaku-quantitative-aptitude",
   "system": "Ikshvaku Aptitude Arena Question Bank",
-  "total_questions": 499936,
+  "total_questions": 601936,
   "difficulty_distribution": {
-    "easy": 124984,
-    "hard": 124984,
-    "medium": 124984,
-    "very_hard": 124984
+    "easy": 150484,
+    "hard": 150484,
+    "medium": 150484,
+    "very_hard": 150484
   },
   "question_type_distribution": {
-    "single_choice": 499936
+    "single_choice": 601936
   },
   "topic_distribution": {
-    "bar-charts": 29408,
-    "caselets-comprehension": 29408,
-    "data-sufficiency": 29408,
-    "demographic-di": 29408,
-    "financial-ratio-di": 29408,
-    "funnel-waterfall-charts": 29408,
-    "line-graphs": 29408,
-    "missing-data-tables": 29408,
-    "mixed-graphs": 29408,
-    "network-route-di": 29408,
-    "pie-charts": 29408,
-    "production-sales-di": 29408,
-    "profit-loss-margin-di": 29408,
-    "radar-charts": 29408,
-    "scatter-plots": 29408,
-    "tables-and-cross-tabs": 29408,
-    "venn-diagram-data": 29408
+    "bar-charts": 35408,
+    "caselets-comprehension": 35408,
+    "data-sufficiency": 35408,
+    "demographic-di": 35408,
+    "financial-ratio-di": 35408,
+    "funnel-waterfall-charts": 35408,
+    "line-graphs": 35408,
+    "missing-data-tables": 35408,
+    "mixed-graphs": 35408,
+    "network-route-di": 35408,
+    "pie-charts": 35408,
+    "production-sales-di": 35408,
+    "profit-loss-margin-di": 35408,
+    "radar-charts": 35408,
+    "scatter-plots": 35408,
+    "tables-and-cross-tabs": 35408,
+    "venn-diagram-data": 35408
   },
   "topic_difficulty_matrix": {
     "bar-charts": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "caselets-comprehension": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "data-sufficiency": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "demographic-di": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "financial-ratio-di": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "funnel-waterfall-charts": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "line-graphs": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "missing-data-tables": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "mixed-graphs": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "network-route-di": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "pie-charts": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "production-sales-di": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "profit-loss-margin-di": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "radar-charts": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "scatter-plots": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "tables-and-cross-tabs": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     },
     "venn-diagram-data": {
-      "easy": 7352,
-      "hard": 7352,
-      "medium": 7352,
-      "very_hard": 7352
+      "easy": 8852,
+      "hard": 8852,
+      "medium": 8852,
+      "very_hard": 8852
     }
   },
   "subtopic_distribution": {
     "bar-charts": {
-      "stacked_clustered_bars": 29408
+      "stacked_clustered_bars": 32383,
+      "profit_margin_bars": 3025
     },
     "caselets-comprehension": {
-      "arithmetic_caselets": 29408
+      "arithmetic_caselets": 32429,
+      "survey_data": 2979
     },
     "data-sufficiency": {
-      "two_statement_sufficiency": 29408
+      "two_statement_sufficiency": 32390,
+      "redundancy_checks": 3018
     },
     "demographic-di": {
-      "population_pyramids": 29408
+      "population_pyramids": 32360,
+      "dependency_ratios": 3048
     },
     "financial-ratio-di": {
-      "balance_sheet_ratios": 29408
+      "balance_sheet_ratios": 32440,
+      "current_quick_ratio": 2968
     },
     "funnel-waterfall-charts": {
-      "conversion_funnel": 29408
+      "conversion_funnel": 32401,
+      "ebitda_reconciliation": 3007
     },
     "line-graphs": {
-      "time_series_growth": 29408
+      "time_series_growth": 32391,
+      "export_import_trends": 3017
     },
     "missing-data-tables": {
-      "reconstruction_tables": 29408
+      "reconstruction_tables": 32471,
+      "audit_balancing": 2937
     },
     "mixed-graphs": {
-      "pie_table_combo": 29408
+      "pie_table_combo": 32468,
+      "bar_line_hybrid": 2940
     },
     "network-route-di": {
-      "shortest_pipeline_flow": 29408
+      "shortest_pipeline_flow": 32423,
+      "logistics_bandwidth": 2985
     },
     "pie-charts": {
-      "single_multi_pie": 29408
+      "single_multi_pie": 32434,
+      "expenditure_breakdown": 2974
     },
     "production-sales-di": {
-      "capacity_utilization": 29408
+      "capacity_utilization": 32398,
+      "inventory_turnover": 3010
     },
     "profit-loss-margin-di": {
-      "markup_discount_trends": 29408
+      "markup_discount_trends": 32444,
+      "gross_operating_margins": 2964
     },
     "radar-charts": {
-      "multivariate_radar": 29408
+      "multivariate_radar": 32398,
+      "performance_metrics": 3010
     },
     "scatter-plots": {
-      "correlation_plots": 29408
+      "correlation_plots": 32371,
+      "regression_lines": 3037
     },
     "tables-and-cross-tabs": {
-      "tabular_percentage": 29408
+      "tabular_percentage": 32391,
+      "conditional_ratios": 3017
     },
     "venn-diagram-data": {
-      "three_set_venn": 29408
+      "three_set_venn": 32400,
+      "demographic_overlap": 3008
     }
   },
   "time_metrics": {
-    "total_estimated_seconds": 29996160,
+    "total_estimated_seconds": 36116160,
     "average_estimated_seconds_overall": 60.0,
     "average_estimated_seconds_by_difficulty": {
       "easy": 45.0,
