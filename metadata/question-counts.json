@@ -1,0 +1,200 @@
+{
+  "repository": "ikshvaku-quantitative-aptitude",
+  "system": "Ikshvaku Aptitude Arena Question Bank",
+  "total_questions": 499936,
+  "difficulty_distribution": {
+    "easy": 124984,
+    "hard": 124984,
+    "medium": 124984,
+    "very_hard": 124984
+  },
+  "question_type_distribution": {
+    "single_choice": 499936
+  },
+  "topic_distribution": {
+    "bar-charts": 29408,
+    "caselets-comprehension": 29408,
+    "data-sufficiency": 29408,
+    "demographic-di": 29408,
+    "financial-ratio-di": 29408,
+    "funnel-waterfall-charts": 29408,
+    "line-graphs": 29408,
+    "missing-data-tables": 29408,
+    "mixed-graphs": 29408,
+    "network-route-di": 29408,
+    "pie-charts": 29408,
+    "production-sales-di": 29408,
+    "profit-loss-margin-di": 29408,
+    "radar-charts": 29408,
+    "scatter-plots": 29408,
+    "tables-and-cross-tabs": 29408,
+    "venn-diagram-data": 29408
+  },
+  "topic_difficulty_matrix": {
+    "bar-charts": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "caselets-comprehension": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "data-sufficiency": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "demographic-di": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "financial-ratio-di": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "funnel-waterfall-charts": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "line-graphs": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "missing-data-tables": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "mixed-graphs": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "network-route-di": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "pie-charts": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "production-sales-di": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "profit-loss-margin-di": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "radar-charts": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "scatter-plots": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "tables-and-cross-tabs": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    },
+    "venn-diagram-data": {
+      "easy": 7352,
+      "hard": 7352,
+      "medium": 7352,
+      "very_hard": 7352
+    }
+  },
+  "subtopic_distribution": {
+    "bar-charts": {
+      "stacked_clustered_bars": 29408
+    },
+    "caselets-comprehension": {
+      "arithmetic_caselets": 29408
+    },
+    "data-sufficiency": {
+      "two_statement_sufficiency": 29408
+    },
+    "demographic-di": {
+      "population_pyramids": 29408
+    },
+    "financial-ratio-di": {
+      "balance_sheet_ratios": 29408
+    },
+    "funnel-waterfall-charts": {
+      "conversion_funnel": 29408
+    },
+    "line-graphs": {
+      "time_series_growth": 29408
+    },
+    "missing-data-tables": {
+      "reconstruction_tables": 29408
+    },
+    "mixed-graphs": {
+      "pie_table_combo": 29408
+    },
+    "network-route-di": {
+      "shortest_pipeline_flow": 29408
+    },
+    "pie-charts": {
+      "single_multi_pie": 29408
+    },
+    "production-sales-di": {
+      "capacity_utilization": 29408
+    },
+    "profit-loss-margin-di": {
+      "markup_discount_trends": 29408
+    },
+    "radar-charts": {
+      "multivariate_radar": 29408
+    },
+    "scatter-plots": {
+      "correlation_plots": 29408
+    },
+    "tables-and-cross-tabs": {
+      "tabular_percentage": 29408
+    },
+    "venn-diagram-data": {
+      "three_set_venn": 29408
+    }
+  },
+  "time_metrics": {
+    "total_estimated_seconds": 29996160,
+    "average_estimated_seconds_overall": 60.0,
+    "average_estimated_seconds_by_difficulty": {
+      "easy": 45.0,
+      "hard": 75.0,
+      "medium": 45.0,
+      "very_hard": 75.0
+    }
+  }
+}

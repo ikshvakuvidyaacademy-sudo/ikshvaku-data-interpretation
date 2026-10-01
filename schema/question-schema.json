@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "IkshvakuDataInterpretationQuestion",
+  "description": "Standard schema for Data Interpretation questions in Ikshvaku Aptitude Arena.",
+  "type": "object",
+  "required": [
+    "id",
+    "subject",
+    "topic",
+    "subtopic",
+    "difficulty",
+    "question_type",
+    "question",
+    "options",
+    "answer",
+    "explanation",
+    "estimated_time_seconds",
+    "tags"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^DI-[A-Z0-9]+-[0-9]{6}$"
+    },
+    "subject": { "type": "string", "const": "data_interpretation" },
+    "topic": { "type": "string", "minLength": 2 },
+    "subtopic": { "type": "string", "minLength": 2 },
+    "difficulty": { "type": "string", "enum": ["easy", "medium", "hard", "very_hard"] },
+    "question_type": { "type": "string", "enum": ["single_choice", "multiple_choice", "numerical", "true_false"] },
+    "question": { "type": "string", "minLength": 10 },
+    "options": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+    "answer": { "type": "string", "minLength": 1 },
+    "explanation": { "type": "string", "minLength": 10 },
+    "estimated_time_seconds": { "type": "integer", "minimum": 10, "maximum": 600 },
+    "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+  },
+  "additionalProperties": false
+}

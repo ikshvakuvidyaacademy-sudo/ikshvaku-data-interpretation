@@ -1,0 +1,24 @@
+{
+  "system": "Ikshvaku Data Interpretation & Sufficiency Taxonomy",
+  "version": "1.0.0",
+  "total_topics": 17,
+  "topics": [
+    { "slug": "tables-and-cross-tabs", "code": "TABLE", "name": "Tables & Cross-Tabulations", "subtopics": [{ "slug": "tabular_percentage", "name": "Tabular Percentage & Ratios" }] },
+    { "slug": "bar-charts", "code": "BAR", "name": "Bar Charts", "subtopics": [{ "slug": "stacked_clustered_bars", "name": "Stacked & Clustered Bars" }] },
+    { "slug": "line-graphs", "code": "LINE", "name": "Line Graphs", "subtopics": [{ "slug": "time_series_growth", "name": "Time-Series & Growth Rates" }] },
+    { "slug": "pie-charts", "code": "PIE", "name": "Pie Charts", "subtopics": [{ "slug": "single_multi_pie", "name": "Single & Double Pie Charts" }] },
+    { "slug": "radar-charts", "code": "RADAR", "name": "Radar & Spider Plots", "subtopics": [{ "slug": "multivariate_radar", "name": "Multivariate Comparisons" }] },
+    { "slug": "mixed-graphs", "code": "MIXED", "name": "Mixed Graphs", "subtopics": [{ "slug": "pie_table_combo", "name": "Pie + Table / Bar Combinations" }] },
+    { "slug": "caselets-comprehension", "code": "CASELET", "name": "Caselets & Paragraph DI", "subtopics": [{ "slug": "arithmetic_caselets", "name": "Textual Numerical Scenarios" }] },
+    { "slug": "data-sufficiency", "code": "SUFF", "name": "Data Sufficiency", "subtopics": [{ "slug": "two_statement_sufficiency", "name": "Two-Statement Sufficiency" }] },
+    { "slug": "venn-diagram-data", "code": "VENN", "name": "Venn Diagrams & Set Analysis", "subtopics": [{ "slug": "three_set_venn", "name": "Three-Set Venn Overlaps" }] },
+    { "slug": "missing-data-tables", "code": "MISSTABLE", "name": "Missing Data Tables", "subtopics": [{ "slug": "reconstruction_tables", "name": "Table Reconstruction" }] },
+    { "slug": "scatter-plots", "code": "SCATTER", "name": "Scatter & Bubble Plots", "subtopics": [{ "slug": "correlation_plots", "name": "Correlation & Outliers" }] },
+    { "slug": "funnel-waterfall-charts", "code": "FUNNEL", "name": "Funnel & Waterfall Charts", "subtopics": [{ "slug": "conversion_funnel", "name": "Conversion & Variance Flow" }] },
+    { "slug": "financial-ratio-di", "code": "FINDI", "name": "Financial & Corporate DI", "subtopics": [{ "slug": "balance_sheet_ratios", "name": "Balance Sheet & Profit Margins" }] },
+    { "slug": "demographic-di", "code": "DEMODI", "name": "Demographic & Census DI", "subtopics": [{ "slug": "population_pyramids", "name": "Population Ratios & Literacy" }] },
+    { "slug": "production-sales-di", "code": "PRODDI", "name": "Production & Inventory DI", "subtopics": [{ "slug": "capacity_utilization", "name": "Capacity & Defect Ratios" }] },
+    { "slug": "profit-loss-margin-di", "code": "PLDI", "name": "Profit, Loss & Discount DI", "subtopics": [{ "slug": "markup_discount_trends", "name": "Commercial Margins" }] },
+    { "slug": "network-route-di", "code": "NETDI", "name": "Network & Route DI", "subtopics": [{ "slug": "shortest_pipeline_flow", "name": "Pipeline & Transport Flow" }] }
+  ]
+}
